@@ -8,6 +8,8 @@ export interface ArgDecoded {
   name?: string;
 }
 
+// Analyse transaction arguments, and recursively check if an argument is
+// an encoded function call
 export const analyseTxData = (
   raw: string,
   knownInterfaces: ethers.utils.Interface[]
