@@ -1,0 +1,27 @@
+.App {
+  margin: 3em;
+}
+
+.Title {
+  float: left;
+  width: 40em;
+  margin: 5em;
+}
+
+.Arg {
+  overflow-wrap:break-word;
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  margin: 1em;
+}
+
+textarea {
+  width: 70em;
+  height: 20em;
+  border-radius: 1em;
+  padding: 0.8em;
+}
