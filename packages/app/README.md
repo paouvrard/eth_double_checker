@@ -1,5 +1,8 @@
 [https://paouvrard.github.io/eth_double_checker/](https://paouvrard.github.io/eth_double_checker/)
 
+### `yarn deploy`
+Deploy to above url.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

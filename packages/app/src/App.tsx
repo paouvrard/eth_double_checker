@@ -77,7 +77,7 @@ function App() {
         <h1>Ethereum TX input data checker</h1>
         <h3>Double check transaction input data before signing and broadcasting</h3>
         <h4>Gnosis Safe: parse encoded calldata to check token transfers and contract interactions</h4>
-        <h4>Suported interfaces: GnosisSafe, ERC20</h4>
+        <h4>Supported interfaces: GnosisSafe, ERC20</h4>
       </div>
       <img  src={metamask} alt="Metamask example" height="400"></img>
       <h2>Input data:</h2>
